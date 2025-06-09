@@ -1,0 +1,29 @@
+/*
+ * Copyright (C) 2023 Luke Bemish and contributors
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+  mod_id: 'rubinated_nether',
+  provided_stones: [],
+  provided_ores: [
+    {
+      id: 'rubinated_nether_ruby',
+      lang: {
+        en_us: 'Ruby Ore',
+      },
+      block_id: [
+        'rubinated_nether:nether_ruby_ore',
+      ],
+      orename: [
+        'ruby_ore',
+      ],
+      types: [
+        'nether',
+      ],
+      stone: [
+        'netherrack',
+      ],
+    },
+  ],
+}
