@@ -1,0 +1,299 @@
+/*
+ * Copyright (C) 2023 Luke Bemish and contributors
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+ */
+
+{
+  mod_id: 'bno',
+  provided_stones: [],
+  provided_ores: [
+    {
+      id: 'bno_nether_coal_ore',
+      lang: {
+        en_us: 'Coal Ore',
+      },
+      block_id: [
+        'bno:nether_coal_ore',
+      ],
+      orename: [
+        'coal_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_copper_ore',
+      lang: {
+        en_us: 'Copper Ore',
+      },
+      block_id: [
+        'bno:nether_copper_ore',
+      ],
+      orename: [
+        'copper_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_iron_ore',
+      lang: {
+        en_us: 'Iron Ore',
+      },
+      block_id: [
+        'bno:nether_iron_ore',
+      ],
+      orename: [
+        'iron_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_gold_ore',
+      lang: {
+        en_us: 'Gold Ore',
+      },
+      block_id: [
+        'bno:nether_gold_ore',
+      ],
+      orename: [
+        'gold_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_redstone_ore',
+      lang: {
+        en_us: 'Redstone Ore',
+      },
+      block_id: [
+        'bno:nether_redstone_ore',
+      ],
+      orename: [
+        'redstone_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_lapis_ore',
+      lang: {
+        en_us: 'Lapis Ore',
+      },
+      block_id: [
+        'bno:nether_lapis_ore',
+      ],
+      orename: [
+        'lapis_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_emerald_ore',
+      lang: {
+        en_us: 'Emerald Ore',
+      },
+      block_id: [
+        'bno:nether_emerald_ore',
+      ],
+      orename: [
+        'emerald_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_diamond_ore',
+      lang: {
+        en_us: 'Diamond Ore',
+      },
+      block_id: [
+        'bno:nether_diamond_ore',
+      ],
+      orename: [
+        'diamond_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_aluminum_ore',
+      lang: {
+        en_us: 'Aluminum Ore',
+      },
+      block_id: [
+        'bno:nether_aluminum_ore',
+      ],
+      orename: [
+        'aluminum_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_tin_ore',
+      lang: {
+        en_us: 'Tin Ore',
+      },
+      block_id: [
+        'bno:nether_tin_ore',
+      ],
+      orename: [
+        'tin_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_lead_ore',
+      lang: {
+        en_us: 'Lead Ore',
+      },
+      block_id: [
+        'bno:nether_lead_ore',
+      ],
+      orename: [
+        'lead_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_silver_ore',
+      lang: {
+        en_us: 'Silver Ore',
+      },
+      block_id: [
+        'bno:nether_silver_ore',
+      ],
+      orename: [
+        'silver_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_nickel_ore',
+      lang: {
+        en_us: 'Nickel Ore',
+      },
+      block_id: [
+        'bno:nether_nickel_ore',
+      ],
+      orename: [
+        'nickel_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_osmium_ore',
+      lang: {
+        en_us: 'Osmium Ore',
+      },
+      block_id: [
+        'bno:nether_osmium_ore',
+      ],
+      orename: [
+        'osmium_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_uranium_ore',
+      lang: {
+        en_us: 'Uranium Ore',
+      },
+      block_id: [
+        'bno:nether_uranium_ore',
+      ],
+      orename: [
+        'uranium_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+	{
+      id: 'bno_nether_zinc_ore',
+      lang: {
+        en_us: 'Zinc Ore',
+      },
+      block_id: [
+        'bno:nether_zinc_ore',
+      ],
+      orename: [
+        'zinc_ore',
+      ],
+      types: [
+        'nether_ore',
+      ],
+      stone: [
+        'netherrack_ore',
+      ],
+    },
+  ],
+}

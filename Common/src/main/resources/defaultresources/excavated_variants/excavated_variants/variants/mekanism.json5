@@ -25,7 +25,8 @@
       ],
     },
     {
-      id: 'tin_ore',
+      id: 'mekanism_tin_ore',
+      orename: 'tin_ore',
       stone: [
         'stone',
         'deepslate',
@@ -42,7 +43,8 @@
       ],
     },
     {
-      id: 'osmium_ore',
+      id: 'mekanism_osmium_ore',
+      orename: 'osmium_ore',
       stone: [
         'stone',
         'deepslate',
@@ -59,7 +61,8 @@
       ],
     },
     {
-      id: 'uranium_ore',
+      id: 'mekanism_uranium_ore',
+      orename: 'uranium_ore',
       stone: [
         'stone',
         'deepslate',

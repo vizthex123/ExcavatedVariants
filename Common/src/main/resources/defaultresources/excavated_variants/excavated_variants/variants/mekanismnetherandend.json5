@@ -9,9 +9,7 @@
   provided_ores: [
     {
       id: 'mekores_nether_tin_ore',
-      stone: [
-        'netherrack',
-      ],
+      orename: 'tin_ore',
       block_id: [
         'mekanismoresfornetherandend:nethertin',
       ],
@@ -21,12 +19,13 @@
       types: [
         'nether',
       ],
-    },
-    {
-      id: 'mekores_nether_lead_ore',
       stone: [
         'netherrack',
       ],
+    },
+    {
+      id: 'mekores_nether_lead_ore',
+      orename: 'lead_ore',
       block_id: [
         'mekanismoresfornetherandend:netherlead',
       ],
@@ -36,12 +35,13 @@
       types: [
         'nether',
       ],
-    },
-    {
-      id: 'mekores_nether_osmium_ore',
       stone: [
         'netherrack',
       ],
+    },
+    {
+      id: 'mekores_nether_osmium_ore',
+      orename: 'osmium_ore',
       block_id: [
         'mekanismoresfornetherandend:netherosmium',
       ],
@@ -51,12 +51,13 @@
       types: [
         'nether',
       ],
-    },
-    {
-      id: 'mekores_nether_uranium_ore',
       stone: [
         'netherrack',
       ],
+    },
+    {
+      id: 'mekores_nether_uranium_ore',
+      orename: 'uranium_ore',
       block_id: [
         'mekanismoresfornetherandend:netheruranium',
       ],
@@ -66,12 +67,13 @@
       types: [
         'nether',
       ],
+	  stone: [
+        'netherrack',
+      ],
     },
     {
       id: 'mekores_nether_fluorite_ore',
-      stone: [
-        'netherrack',
-      ],
+      orename: 'fluorite_ore',
       block_id: [
         'mekanismoresfornetherandend:netherfluorite',
       ],
@@ -81,12 +83,13 @@
       types: [
         'nether',
       ],
+	  stone: [
+        'netherrack',
+      ],
     },
 	{
       id: 'mekores_end_tin_ore',
-      stone: [
-        'end_stone',
-      ],
+      orename: 'tin_ore',
       block_id: [
         'mekanismoresforendandend:endtin',
       ],
@@ -96,12 +99,13 @@
       types: [
         'end',
       ],
-    },
-    {
-      id: 'mekores_end_lead_ore',
       stone: [
         'end_stone',
       ],
+    },
+    {
+      id: 'mekores_end_lead_ore',
+      orename: 'lead_ore',
       block_id: [
         'mekanismoresforendandend:endlead',
       ],
@@ -111,12 +115,13 @@
       types: [
         'end',
       ],
-    },
-    {
-      id: 'mekores_end_osmium_ore',
       stone: [
         'end_stone',
       ],
+    },
+    {
+      id: 'mekores_end_osmium_ore',
+      orename: 'osmium_ore',
       block_id: [
         'mekanismoresforendandend:endosmium',
       ],
@@ -126,12 +131,13 @@
       types: [
         'end',
       ],
-    },
-    {
-      id: 'mekores_end_uranium_ore',
       stone: [
         'end_stone',
       ],
+    },
+    {
+      id: 'mekores_end_uranium_ore',
+      orename: 'uranium_ore',
       block_id: [
         'mekanismoresforendandend:enduranium',
       ],
@@ -141,12 +147,13 @@
       types: [
         'end',
       ],
-    },
-    {
-      id: 'mekores_end_fluorite_ore',
       stone: [
         'end_stone',
       ],
+    },
+    {
+      id: 'mekores_end_fluorite_ore',
+      orename: 'fluorite_ore',
       block_id: [
         'mekanismoresforendandend:endfluorite',
       ],
@@ -155,6 +162,9 @@
       },
       types: [
         'end',
+      ],
+      stone: [
+        'end_stone',
       ],
     },
   ],
