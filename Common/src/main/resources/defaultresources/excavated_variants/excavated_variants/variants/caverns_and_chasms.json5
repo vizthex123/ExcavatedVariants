@@ -1,0 +1,29 @@
+/*
+ * Copyright (C) 2023 Luke Bemish and contributors
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+*/
+
+{
+  mod_id: 'caverns_and_chasms',
+  provided_stones: [],
+  provided_ores: [
+    {
+      id: 'caverns_silver_ore',
+      orename: 'silver_ore',
+      lang: {
+        en_us: 'Silver Ore',
+      },
+      block_id: [
+        'caverns_and_chasms:silver_ore',
+        'caverns_and_chasms:deepslate_silver_ore',
+      ],
+      types: [
+        'stone',
+      ],
+      stone: [
+        'stone',
+        'deepslate',
+      ],
+    },
+  ],
+}
