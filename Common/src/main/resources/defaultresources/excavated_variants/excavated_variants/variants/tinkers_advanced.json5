@@ -4,7 +4,7 @@
 */
 
 {
-  mod_id: 'cobalt_ore',
+  mod_id: 'tinkers_advanced',
   provided_stones: [],
   provided_ores: [
     {
@@ -38,9 +38,9 @@
       ],
     },
     {
-      id: 'iridium_ore',
+      id: 'iridium_lean_ore',
       lang: {
-        en_us: 'Iridium Ore',
+        en_us: 'Iridium Lean Ore',
       },
       block_id: [
         'tinkers_advanced:iridium_lean_ore',
