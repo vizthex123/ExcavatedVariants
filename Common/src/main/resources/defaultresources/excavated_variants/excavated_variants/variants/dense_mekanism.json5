@@ -1,0 +1,101 @@
+/*
+ * Copyright (C) 2023 Luke Bemish and contributors
+ * SPDX-License-Identifier: LGPL-3.0-or-later
+*/
+
+{
+  mod_id: 'densemekanism',
+  provided_stones: [],
+  provided_ores: [
+	{
+      id: 'dense_tin_ore',
+      orename: 'tin_ore',
+      lang: {
+		en_us: 'Tin Ore',
+      },
+      block_id: [
+		'densemekanism:dense_tin_ore',
+		'densemekanism:dense_deepslate_tin_ore',
+      ],
+      types: [
+        'stone',
+      ],
+      stone: [
+        'stone',
+        'deepslate',
+      ],
+    },
+	{
+      id: 'dense_lead_ore',
+      orename: 'lead_ore',
+      lang: {
+		en_us: 'Lead Ore',
+      },
+      block_id: [
+		'densemekanism:dense_lead_ore',
+		'densemekanism:dense_deepslate_lead_ore',
+      ],
+      types: [
+        'stone',
+      ],
+      stone: [
+        'stone',
+        'deepslate',
+      ],
+    },
+	{
+      id: 'dense_osmium_ore',
+      orename: 'osmium_ore',
+      lang: {
+		en_us: 'Osmium Ore',
+      },
+      block_id: [
+		'densemekanism:dense_osmium_ore',
+		'densemekanism:dense_deepslate_osmium_ore',
+      ],
+      types: [
+        'stone',
+      ],
+      stone: [
+        'stone',
+        'deepslate',
+      ],
+    },
+	{
+      id: 'dense_uranium_ore',
+      orename: 'uranium_ore',
+      lang: {
+		en_us: 'Uranium Ore',
+      },
+      block_id: [
+		'densemekanism:dense_uranium_ore',
+		'densemekanism:dense_deepslate_uranium_ore',
+      ],
+      types: [
+        'stone',
+      ],
+      stone: [
+        'stone',
+        'deepslate',
+      ],
+    },
+	{
+      id: 'dense_fluorite_ore',
+      orename: 'fluorite_ore',
+      lang: {
+		en_us: 'Fluorite Ore',
+      },
+      block_id: [
+		'densemekanism:dense_fluorite_ore',
+		'densemekanism:dense_deepslate_fluorite_ore',
+      ],
+      types: [
+        'stone',
+      ],
+      stone: [
+        'stone',
+        'deepslate',
+      ],
+    },
+  ],
+}
