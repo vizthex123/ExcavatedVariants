@@ -9,7 +9,7 @@
     {
       id: 'projectred_basalt',
       lang: {
-        en_us: 'Basalt',
+		en_us: 'Basalt',
       },
       block_id: 'projectred_exploration:basalt',
       types: [
@@ -17,9 +17,9 @@
       ],
     },
     {
-      id: 'projectred_marble',
+      id: 'marble',
       lang: {
-        en_us: 'Marble',
+		en_us: 'Marble',
       },
       block_id: 'projectred_exploration:marble',
       types: [
@@ -29,7 +29,8 @@
   ],
   provided_ores: [
 	{
-      id: 'ruby_ore',
+      id: 'projectred_ruby_ore',
+      orenames: 'ruby_ore',
       lang: {
 		en_us: 'Ruby Ore',
       },
@@ -46,7 +47,8 @@
       ],
     },
 	{
-      id: 'sapphire_ore',
+      id: 'projectred_sapphire_ore',
+      orenames: 'sapphire_ore',
       lang: {
 		en_us: 'Sapphire Ore',
       },
@@ -63,7 +65,8 @@
       ],
     },
 	{
-      id: 'peridot_ore',
+      id: 'projectred_peridot_ore',
+      orenames: 'peridot_ore',
       lang: {
 		en_us: 'Peridot Ore',
       },
@@ -80,7 +83,8 @@
       ],
     },
 	{
-      id: 'tin_ore',
+      id: 'projectred_tin',
+      orename: 'tin_ore',
       lang: {
 		en_us: 'Tin Ore',
       },
@@ -97,7 +101,8 @@
       ],
     },
 	{
-      id: 'silver_ore',
+      id: 'projectred_silver',
+      orename: 'silver_ore',
       lang: {
 		en_us: 'Silver Ore',
       },

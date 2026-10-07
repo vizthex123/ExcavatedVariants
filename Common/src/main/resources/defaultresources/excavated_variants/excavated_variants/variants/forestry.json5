@@ -9,6 +9,7 @@
   provided_ores: [
 	{
       id: 'forestry_tin_ore',
+      orename: 'tin_ore',
       lang: {
 		en_us: 'Tin Ore',
       },
@@ -26,6 +27,7 @@
     },
 	{
       id: 'forestry_apatite_ore',
+      orename: 'apatite_ore',
       lang: {
 		en_us: 'Apatite Ore',
       },

@@ -302,7 +302,7 @@
         'minecraft:nether_quartz_ore',
       ],
       lang: {
-        en_us: 'Quartz Ore',
+        en_us: 'Nether Quartz Ore',
       },
       types: [
         'nether',
