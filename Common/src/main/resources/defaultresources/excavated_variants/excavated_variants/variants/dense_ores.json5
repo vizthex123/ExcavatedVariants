@@ -152,6 +152,22 @@
       ],
     },
 	{
+      id: 'dense_nether_quartz_ore',
+      orename: 'quartz_ore',
+      lang: {
+		en_us: 'Nether Quartz Ore',
+      },
+      block_id: [
+        'denseores:dense_nether_quartz_ore',
+      ],
+      types: [
+        'nether',
+      ],
+      stone: [
+        'netherrack',
+      ],
+    },
+	{
       id: 'dense_nether_gold_ore',
       orename: 'gold_ore',
       lang: {
