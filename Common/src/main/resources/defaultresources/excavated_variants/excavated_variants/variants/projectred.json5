@@ -30,7 +30,7 @@
   provided_ores: [
 	{
       id: 'projectred_ruby_ore',
-      orenames: 'ruby_ore',
+      orename: 'ruby_ore',
       lang: {
 		en_us: 'Ruby Ore',
       },
@@ -48,7 +48,7 @@
     },
 	{
       id: 'projectred_sapphire_ore',
-      orenames: 'sapphire_ore',
+      orename: 'sapphire_ore',
       lang: {
 		en_us: 'Sapphire Ore',
       },
@@ -66,7 +66,7 @@
     },
 	{
       id: 'projectred_peridot_ore',
-      orenames: 'peridot_ore',
+      orename: 'peridot_ore',
       lang: {
 		en_us: 'Peridot Ore',
       },

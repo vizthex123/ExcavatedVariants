@@ -8,8 +8,7 @@
   provided_stones: [],
   provided_ores: [
 	{
-      id: 'certusquartzore',
-      orename: 'certus_quartz_ore',
+      id: 'certus_quartz_ore',
       lang: {
 		en_us: 'Certus Quartz Ore',
       },

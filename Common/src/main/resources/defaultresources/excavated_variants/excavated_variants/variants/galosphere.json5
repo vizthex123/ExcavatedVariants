@@ -39,7 +39,26 @@
   ],
   provided_ores: [
     {
-      id: 'silver_ore',
+      id: 'galosphere_palladium_ore',
+      orename: 'palladium_ore',
+      lang: {
+        en_us: 'Palladium Ore',
+      },
+      block_id: [
+        'galosphere:palladium_ore',
+        'galosphere:deepslate_palladium_ore',
+      ],
+      types: [
+        'stone',
+      ],
+      stone: [
+        'stone',
+        'deepslate',
+      ],
+    },
+    {
+      id: 'galosphere_silver_ore',
+      orename: 'silver_ore',
       lang: {
         en_us: 'Silver Ore',
       },
